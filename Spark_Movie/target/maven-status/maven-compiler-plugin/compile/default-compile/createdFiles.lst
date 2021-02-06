@@ -1,0 +1,14 @@
+com\iris\movie\dao\MovieHiveDao.class
+com\iris\movie\processor\BaseProcessor.class
+com\iris\movie\schema\MovieStatusSchema.class
+com\iris\movie\dao\impl\MovieHiveDaoImpl.class
+com\iris\movie\service\impl\MovieServiceImpl.class
+com\iris\movie\schema\MovieDataSchema.class
+com\iris\movie\processor\MovieProcessor.class
+com\iris\movie\service\impl\MovieQueryServiceImpl.class
+com\iris\movie\service\impl\ReadMovieServiceImpl.class
+com\iris\movie\service\MovieService.class
+com\iris\movie\service\MovieQueryService.class
+com\iris\movie\config\MovieTransformationFactory.class
+com\iris\movie\model\MovieDFModel.class
+com\iris\movie\service\ReadMovieService.class

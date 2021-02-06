@@ -1,0 +1,6 @@
+1)	Get the top 20 destination people travel the most based on trips booked for particular destinations.
+2)	Get the top 20 locations from where people travel the most based on the booked trip count.
+3)	Get the top 20 cities that generate high airline revenues for travel.
+4)	Most common mode of transport
+5)	Find shortest and longest duration of travel
+6)	City wise most used hotel
